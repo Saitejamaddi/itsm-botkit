@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://untaxed-democrat-citrus.ngrok-free.dev"
+        "url": "https://itsm.saiteja.space"
     },
     "validations": {
         "leastNodeVersion": 10
