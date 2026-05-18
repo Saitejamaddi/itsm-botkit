@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://itsm.saiteja.space"
+        "url": "https://itsm-api.saiteja.space"
     },
     "validations": {
         "leastNodeVersion": 10
