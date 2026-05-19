@@ -17,7 +17,7 @@ var PASSWORD_METHOD_ID = "28c10230-6103-485e-b985-444c60001490";
 
 // ─── Idle Timer ───────────────────────────────────────────────────────────────
 
-var IDLE_TIMEOUT_MS =  1 * 60 * 1000;
+var IDLE_TIMEOUT_MS =  5 * 60 * 1000;
 var idleTimers      = {};
 
 var REMINDER_MESSAGES = {
